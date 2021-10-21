@@ -6,7 +6,7 @@ Professor de Inglês na Escola de Idiomas Safe Way (sede Moema)
 
 👀 Estou interessado em entrar no mercado de trabalho como desenvolvedor WEB.
 
-🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, Node e React e estou aperfeiçoando o idioma inglês.
+🌱 Atualmente estou aprimorando o aprendizado em HTML, CSS, JavaScript, C# .NET e MySql e ainda aperfeiçoando o idioma inglês.
 
 💞️ Espero colaborar com uma empresa para desenvolvimeto de soluções e inovações.
 
@@ -31,7 +31,7 @@ English Teacher at Safe Way Language School (in Moema)
 
 👀 I’m interested in join the job market as a WEB developer.
 
-🌱 I’m currently learning HTML, CSS, JavaScript, Node and React; and I am improving ma English studtying.
+🌱 I’m currently learning HTML, CSS, JavaScript, C# .NET and MySql; and I am still improving my English.
 
 💞️ I’m looking to collaborate on a company for development of solutions and innovations.
 
